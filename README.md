@@ -1,2 +1,2 @@
-# Structura inicial del proyecto
+# Structure initial proyect
 ![structure proyect](image.png)
